@@ -36,6 +36,7 @@
     <td><a href="https://github.com/parshvJS/we." target="_blank">We. Repository</a></td>
     <td><b>Task Management & Automation</b>: Users can join specific organizations (students to colleges, employees to companies) and leverage AI to optimize daily schedules, boosting productivity.</td>
     <td><b>Chat & Document Organization</b>: Automatically generates documentation based on users' task schedules, facilitating organized communication and document management.</td>
+    <td>Future Flim Coming soon</td>
   </tr>
   <tr>
     <td>3.</td>
@@ -45,6 +46,7 @@
     <td><a href="https://github.com/parshvJS/Desk-Labs" target="_blank">Desk Labs Repository</a></td>
     <td><b>Social Media Integration</b>: Users can post, repost, like, and comment on setups.</td>
     <td><b>Config Space</b>: Creators can list all items used in their setups, enabling others to clone and repost the configurations.</td>
+    <td>Future Flim Coming soon</td>
   </tr>
 </table>
 
