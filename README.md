@@ -7,37 +7,38 @@
 </ul>
 
 <h2>Problems That Phases And Tried To Solve</h2>
-1. PaperBrock
-Problem: Students lacked a community and tools to efficiently prepare for exams.
+## Problems I Faced and Solved
 
-Solution: Experiencing this issue firsthand, I developed PaperBrock to address five core problems, creating features that enhance students' exam preparation phases.
+### 1. PaperBrock
+**Problem:** Students lacked a community and tools to efficiently prepare for exams.
 
-Repository: PaperBrock Repository
+**Solution:** Experiencing this issue firsthand, I developed PaperBrock to address five core problems, creating features that enhance students' exam preparation phases.
 
-Features:
+**Repository:** [PaperBrock Repository](https://github.com/parshvJS/paperbrock)
 
-Exam Analyzer: Provides a baseline for exam preparation by analyzing syllabi and past exam papers, offering deep insights and focus areas.
-Practice Papers: Centralizes exam paper creation, allowing students to practice in a simulated exam environment.
-Exam Space: Auto-configures an exam space for signed-in students, grouping them with peers sharing similar interests.
-2. We.
-Problem: No app integrated seamlessly with human lifestyles to manage general tasks (recently addressed by Apple).
+**Features:**
+- **Exam Analyzer:** Provides a baseline for exam preparation by analyzing syllabi and past exam papers, offering deep insights and focus areas.
+- **Practice Papers:** Centralizes exam paper creation, allowing students to practice in a simulated exam environment.
+- **Exam Space:** Auto-configures an exam space for signed-in students, grouping them with peers sharing similar interests.
 
-Solution: Identified three major areas: Task Scheduling & Automation, Chat Organization, and Document Management, creating features to address these.
+### 2. We.
+**Problem:** No app integrated seamlessly with human lifestyles to manage general tasks (recently addressed by Apple).
 
-Repository: We. Repository
+**Solution:** Identified three major areas: Task Scheduling & Automation, Chat Organization, and Document Management, creating features to address these.
 
-Features:
+**Repository:** [We. Repository](https://github.com/parshvJS/we.)
 
-Task Management & Automation: Users can join specific organizations (students to colleges, employees to companies) and leverage AI to optimize daily schedules, boosting productivity.
-Chat & Document Organization: Automatically generates documentation based on users' task schedules, facilitating organized communication and document management.
-3. Desk Labs
-Problem: While we frequently clone recipes and projects, replicating desktop setups with configurations was challenging.
+**Features:**
+- **Task Management & Automation:** Users can join specific organizations (students to colleges, employees to companies) and leverage AI to optimize daily schedules, boosting productivity.
+- **Chat & Document Organization:** Automatically generates documentation based on users' task schedules, facilitating organized communication and document management.
 
-Solution: Developed Desk Labs, allowing users to share and replicate complete desktop setups, including configurations.
+### 3. Desk Labs
+**Problem:** While we frequently clone recipes and projects, replicating desktop setups with configurations was challenging.
 
-Repository: Desk Labs Repository
+**Solution:** Developed Desk Labs, allowing users to share and replicate complete desktop setups, including configurations.
 
-Features:
+**Repository:** [Desk Labs Repository](https://github.com/parshvJS/Desk-Labs)
 
-Social Media Integration: Users can post, repost, like, and comment on setups.
-Config Space: Creators can list all items used in their setups, enabling others to clone and repost the configurations.
+**Features:**
+- **Social Media Integration:** Users can post, repost, like, and comment on setups.
+- **Config Space:** Creators can list all items used in their setups, enabling others to clone and repost the configurations.
