@@ -1,12 +1,64 @@
-<h2>Welcome In Parshv's World 🌍</h2>
-<ul>
-  <li>🔭 I’m currently working on TaskDeno | Drag And Drop AI Chatbot builder And Deployer</li>
-  <li>🌱 I’m currently learning microservice Kubernates | Serverless | Dynamic Docker concepts for complex backend system</li>
-  <li>⚡ Fun fact: A human can never thing outside his enviroment, that's why there is 'RE' in research🥸. </li>
-  <li>📫 How to reach me: Social media handles below my picture ↙️</li>
-</ul>
+## Hey There Parshv Here 🌍
 
-## Teck Stack I learnt and used also
+- 🌟 Currently working on **TaskDeno** | Drag and Drop AI Chatbot Builder and Deployer
+- 🔍 Learning: Microservice Kubernetes, Serverless, Dynamic Docker concepts for complex backend systems
+- 🤓 Fun Fact: A human can never think outside his environment, which is why there's 'RE' in research.
+- 📬 How to reach me: Social media handles below my profile 
+
+
+## Education
+
+#### Course - Polytechnic | Diploma in Computer Engineering
+##### College - Tapi Diploma Engineering College, Surat
+###### Result - 9.9 CGPA | **🔥 1st Rank in College (achieved twice)** | **7th Rank in State (Gujarat)**
+
+
+## Problems I Faced and Solved
+
+<details>
+  <summary>1. PaperBrock</summary>
+  
+  **Problem:** Students lacked a community and tools to efficiently prepare for exams.
+  
+  **Solution:** Experiencing this issue firsthand, I developed PaperBrock to address five core problems, creating features that enhance students' exam preparation phases.
+  
+  **Repository:** [PaperBrock Repository](https://github.com/parshvJS/paperbrock)
+  
+  **Features:**
+  - **Exam Analyzer:** Provides a baseline for exam preparation by analyzing syllabi and past exam papers, offering deep insights and focus areas.
+  - **Practice Papers:** Centralizes exam paper creation, allowing students to practice in a simulated exam environment.
+  - **Exam Space:** Auto-configures an exam space for signed-in students, grouping them with peers sharing similar interests.
+</details>
+
+<details>
+  <summary>2. We.</summary>
+  
+  **Problem:** No app integrated seamlessly with human lifestyles to manage general tasks (recently addressed by Apple).
+  
+  **Solution:** Identified three major areas: Task Scheduling & Automation, Chat Organization, and Document Management, creating features to address these.
+  
+  **Repository:** [We. Repository](https://github.com/parshvJS/we.)
+  
+  **Features:**
+  - **Task Management & Automation:** Users can join specific organizations (students to colleges, employees to companies) and leverage AI to optimize daily schedules, boosting productivity.
+  - **Chat & Document Organization:** Automatically generates documentation based on users' task schedules, facilitating organized communication and document management.
+</details>
+
+<details>
+  <summary>3. Desk Labs</summary>
+  
+  **Problem:** While we frequently clone recipes and projects, replicating desktop setups with configurations was challenging.
+  
+  **Solution:** Developed Desk Labs, allowing users to share and replicate complete desktop setups, including configurations.
+  
+  **Repository:** [Desk Labs Repository](https://github.com/parshvJS/Desk-Labs)
+  
+  **Features:**
+  - **Social Media Integration:** Users can post, repost, like, and comment on setups.
+  - **Config Space:** Creators can list all items used in their setups, enabling others to clone and repost the configurations.
+</details>
+
+## Tech Stack I learnt and used till now
 
 <table>
   <tr>
@@ -70,55 +122,4 @@
     </td>
   </tr>
 </table>
-<h2>Problems That Phases And Tried To Solve</h2>
-
-## Problems I Faced and Solved
-
-<details>
-  <summary>1. PaperBrock</summary>
-  
-  **Problem:** Students lacked a community and tools to efficiently prepare for exams.
-  
-  **Solution:** Experiencing this issue firsthand, I developed PaperBrock to address five core problems, creating features that enhance students' exam preparation phases.
-  
-  **Repository:** [PaperBrock Repository](https://github.com/parshvJS/paperbrock)
-  
-  **Features:**
-  - **Exam Analyzer:** Provides a baseline for exam preparation by analyzing syllabi and past exam papers, offering deep insights and focus areas.
-  - **Practice Papers:** Centralizes exam paper creation, allowing students to practice in a simulated exam environment.
-  - **Exam Space:** Auto-configures an exam space for signed-in students, grouping them with peers sharing similar interests.
-</details>
-
-<details>
-  <summary>2. We.</summary>
-  
-  **Problem:** No app integrated seamlessly with human lifestyles to manage general tasks (recently addressed by Apple).
-  
-  **Solution:** Identified three major areas: Task Scheduling & Automation, Chat Organization, and Document Management, creating features to address these.
-  
-  **Repository:** [We. Repository](https://github.com/parshvJS/we.)
-  
-  **Features:**
-  - **Task Management & Automation:** Users can join specific organizations (students to colleges, employees to companies) and leverage AI to optimize daily schedules, boosting productivity.
-  - **Chat & Document Organization:** Automatically generates documentation based on users' task schedules, facilitating organized communication and document management.
-</details>
-
-<details>
-  <summary>3. Desk Labs</summary>
-  
-  **Problem:** While we frequently clone recipes and projects, replicating desktop setups with configurations was challenging.
-  
-  **Solution:** Developed Desk Labs, allowing users to share and replicate complete desktop setups, including configurations.
-  
-  **Repository:** [Desk Labs Repository](https://github.com/parshvJS/Desk-Labs)
-  
-  **Features:**
-  - **Social Media Integration:** Users can post, repost, like, and comment on setups.
-  - **Config Space:** Creators can list all items used in their setups, enabling others to clone and repost the configurations.
-</details>
-
-## Education
-<h4>Course - Polytechnic|Diploma In Computer Engineering</h4>
-<h5>Collage - Tapi Diploma Engineering Collage,Surat</h5>
-<h6>Result - 9.9 CGPA | <b>🔥2 Steak rank 1 in collage</b> | <b>7th Rank in State</b></h6>
 
