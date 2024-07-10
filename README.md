@@ -7,7 +7,6 @@
 </ul>
 
 <h2>Problems That Phases And Tried To Solve</h2>
-## Problems I Faced and Solved
 
 ### 1. PaperBrock
 **Problem:** Students lacked a community and tools to efficiently prepare for exams.
