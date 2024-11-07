@@ -1,6 +1,7 @@
 ## Hey There Parshv Here 🌍
 
-- 🌟 Currently working on **TaskDeno** | Drag and Drop AI Chatbot Builder and Deployer
+- 🌟 Currently working on **Toolmate** | AI Based DIY Helper | Fiverr Client Project
+- Freelancer - <a href="https://www.fiverr.com/parshvsheth337?public_mode=true">View Fiverr Profile</a>
 - 🔍 Learning: Microservice Kubernetes, Serverless, Dynamic Docker concepts for complex backend systems
 - 🤓 Fun Fact: A human can never think outside his environment, which is why there's 'RE' in research.
 - 📬 How to reach me: Social media handles below my profile 
@@ -10,7 +11,6 @@
 
 #### Course - Polytechnic | Diploma in Computer Engineering
 ##### College - Tapi Diploma Engineering College, Surat
-###### Result - 9.9 CGPA | **🔥 1st Rank in College (achieved twice)** | **7th Rank in State (Gujarat)**
 
 
 ## Problems I Faced and Solved
