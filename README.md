@@ -1,64 +1,60 @@
-## Hey There Parshv Here 🌍
+## 👋 Hey, I'm Parshv Sheth! 
 
-- 🌟 Currently working on **Toolmate** | AI Based DIY Helper | Fiverr Client Project
-- Freelancer - <a href="https://www.fiverr.com/parshvsheth337?public_mode=true">View Fiverr Profile</a>
-- 🔍 Learning: Microservice Kubernetes, Serverless, Dynamic Docker concepts for complex backend systems
-- 🤓 Fun Fact: A human can never think outside his environment, which is why there's 'RE' in research.
-- 📬 How to reach me: Social media handles below my profile 
+🚀 **Currently working on:** [Toolmate](#) – an AI-powered DIY assistant (Fiverr Client Project)  
+💼 **Freelancer:** [Check out my Fiverr Profile](https://www.fiverr.com/parshvsheth337?public_mode=true)  
+📚 **Learning:** Microservices, Kubernetes, Serverless, and Dynamic Docker concepts for scalable backend systems  
+💡 **Fun Fact:** A human can never think outside their environment, which is why there's "RE" in research.  
+📬 **How to reach me:** Find my social media handles below my profile.  
 
+---
 
-## Education
+## 🎓 Education  
 
-#### Course - Polytechnic | Diploma in Computer Engineering
-##### College - Tapi Diploma Engineering College, Surat
+**Diploma in Computer Engineering**  
+📍 Tapi Diploma Engineering College, Surat  
 
+---
 
-## Problems I Faced and Solved
+## 🔧 Projects & Solutions  
 
-<details>
-  <summary>1. PaperBrock</summary>
-  
-  **Problem:** Students lacked a community and tools to efficiently prepare for exams.
-  
-  **Solution:** Experiencing this issue firsthand, I developed PaperBrock to address five core problems, creating features that enhance students' exam preparation phases.
-  
-  **Repository:** [PaperBrock Repository](https://github.com/parshvJS/paperbrock)
-  
-  **Features:**
-  - **Exam Analyzer:** Provides a baseline for exam preparation by analyzing syllabi and past exam papers, offering deep insights and focus areas.
-  - **Practice Papers:** Centralizes exam paper creation, allowing students to practice in a simulated exam environment.
-  - **Exam Space:** Auto-configures an exam space for signed-in students, grouping them with peers sharing similar interests.
-</details>
+### 1️⃣ PaperBrock  
+**Problem:** Students lacked a community and tools to efficiently prepare for exams.  
+**Solution:** Built PaperBrock to tackle five core challenges, enhancing students' exam preparation.  
 
-<details>
-  <summary>2. We.</summary>
-  
-  **Problem:** No app integrated seamlessly with human lifestyles to manage general tasks (recently addressed by Apple).
-  
-  **Solution:** Identified three major areas: Task Scheduling & Automation, Chat Organization, and Document Management, creating features to address these.
-  
-  **Repository:** [We. Repository](https://github.com/parshvJS/we.)
-  
-  **Features:**
-  - **Task Management & Automation:** Users can join specific organizations (students to colleges, employees to companies) and leverage AI to optimize daily schedules, boosting productivity.
-  - **Chat & Document Organization:** Automatically generates documentation based on users' task schedules, facilitating organized communication and document management.
-</details>
+🔗 [GitHub Repository](https://github.com/parshvJS/paperbrock)  
 
-<details>
-  <summary>3. Desk Labs</summary>
-  
-  **Problem:** While we frequently clone recipes and projects, replicating desktop setups with configurations was challenging.
-  
-  **Solution:** Developed Desk Labs, allowing users to share and replicate complete desktop setups, including configurations.
-  
-  **Repository:** [Desk Labs Repository](https://github.com/parshvJS/Desk-Labs)
-  
-  **Features:**
-  - **Social Media Integration:** Users can post, repost, like, and comment on setups.
-  - **Config Space:** Creators can list all items used in their setups, enabling others to clone and repost the configurations.
-</details>
+**Key Features:**  
+✅ **Exam Analyzer:** Analyzes syllabi and past papers to provide deep insights.  
+✅ **Practice Papers:** Enables students to create and attempt simulated exams.  
+✅ **Exam Space:** Auto-configures study groups based on shared interests.  
 
-## Tech Stack I learnt and used till now
+---
+
+### 2️⃣ We.  
+**Problem:** No app seamlessly integrates with daily life for managing general tasks (now addressed by Apple).  
+**Solution:** Focused on Task Scheduling, Chat Organization, and Document Management.  
+
+🔗 [GitHub Repository](https://github.com/parshvJS/we.)  
+
+**Key Features:**  
+✅ **Task Management & Automation:** AI-powered schedule optimization for students and employees.  
+✅ **Chat & Document Organization:** Auto-generates documentation based on task schedules.  
+
+---
+
+### 3️⃣ Desk Labs  
+**Problem:** Unlike recipes and projects, replicating personalized desktop setups was difficult.  
+**Solution:** Developed Desk Labs to allow users to share and clone complete desktop setups.  
+
+🔗 [GitHub Repository](https://github.com/parshvJS/Desk-Labs)  
+
+**Key Features:**  
+✅ **Social Media Integration:** Users can post, like, and comment on setups.  
+✅ **Config Space:** Enables sharing and cloning of setup configurations.  
+
+---
+
+## 🛠 Tech Stack  
 
 <table>
   <tr>
@@ -122,4 +118,3 @@
     </td>
   </tr>
 </table>
-
