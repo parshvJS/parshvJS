@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Parshv Sheth! 
 
-🚀 **Currently working on:** : USA's research based company </br>
+🚀 **Currently working on:** Job in a USA-based research company  
 💼 **Freelancer:** [Check out my Fiverr Profile](https://www.fiverr.com/parshvsheth337?public_mode=true)  
 📚 **Learning:** Microservices, Kubernetes, Serverless, and Dynamic Docker concepts for scalable backend systems  
 💡 **Fun Fact:** A human can never think outside their environment, which is why there's "RE" in research.  
