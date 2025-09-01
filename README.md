@@ -29,15 +29,17 @@
 
 ---
 
-### 2️⃣ We.  
-**Problem:** No app seamlessly integrates with daily life for managing general tasks (now addressed by Apple).  
-**Solution:** Focused on Task Scheduling, Chat Organization, and Document Management.  
+### 2️⃣ Task Deno  
+**Problem:** Setting up customer care chatbots on websites is often complex and requires technical expertise.  
+**Solution:** Task Deno provides a **no-code, drag-and-drop multi-platform chatbot builder**, making chatbot deployment effortless.  
 
-🔗 [GitHub Repository](https://github.com/parshvJS/we.)  
+🔗 [GitHub Repository](https://github.com/parshvJS/TaskDeno-Ai-Chatbot-Builder-with-ease)  
 
 **Key Features:**  
-✅ **Task Management & Automation:** AI-powered schedule optimization for students and employees.  
-✅ **Chat & Document Organization:** Auto-generates documentation based on task schedules.  
+✅ **Multi-Platform Support:** Build and manage multiple chatbots across different websites or tenants.  
+✅ **Customizability:** Full control over chatbot behavior, appearance, and style to match branding.  
+✅ **Single-Snippet Integration:** Add a single script tag to integrate the chatbot into **custom code, WordPress, Wix, or any low-code platform**.  
+✅ **Analytics Dashboard:** Gain insights with time-based, click-based, and assistance-related analytics.  
 
 ---
 
