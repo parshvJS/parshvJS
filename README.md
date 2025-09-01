@@ -1,9 +1,9 @@
 ## 👋 Hey, I'm Parshv Sheth! 
 
-💼 **Freelancer:** [Check out my Fiverr Profile](https://www.fiverr.com/parshvsheth337?public_mode=true)  
-📚 **Learning:** Microservices, Kubernetes, Serverless, and Dynamic Docker concepts for scalable backend systems  
+💼 **job**
+📚 **Learning:** Learning Application Level Agentic AI 
 💡 **Fun Fact:** A human can never think outside their environment, which is why there's "RE" in research.  
-📬 **How to reach me:** Find my social media handles below my profile.  
+📬 **How to reach me:** Linkedin, X links attached.  
 
 ---
 
