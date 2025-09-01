@@ -3,7 +3,9 @@
 💼 **job** 
 
 📚 **Learning:** Learning Application Level Agentic AI 
+
 💡 **Fun Fact:** A human can never think outside their environment, which is why there's "RE" in research.  
+
 📬 **How to reach me:** Linkedin, X links attached.  
 
 ---
