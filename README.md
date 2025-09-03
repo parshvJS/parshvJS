@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Parshv Sheth! 
 
-💼 **job** 
+💼 **job**  Doing some AI stuff
 
 📚 **Learning:** Learning Application Level Agentic AI 
 
-💡 **Fun Fact:** A human can never think outside their environment, which is why there's "RE" in research.  
+💡 **Fun Fact:** A human can never think outside their environment.
 
 📬 **How to reach me:** Linkedin, X links attached.  
 
