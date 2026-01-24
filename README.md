@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Parshv Sheth! 
 
-💼 **job**  Doing some AI stuff
+💼 Current Status : **Job**  Doing some AI stuff 
 
 📚 **Learning:** Learning Application Level Agentic AI 
 
