@@ -4,7 +4,7 @@
 
 📚 **Learning:** Learning Application Level Agentic AI 
 
-💡 **Fun Fact:** A human can never think outside their environment.
+💡 **Fun Fact:** Human biology is tuned to be perfect in its surroundings.
 
 📬 **How to reach me:** Linkedin, X links attached.  
 
